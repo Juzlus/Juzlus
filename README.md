@@ -49,6 +49,7 @@
                         ⠀<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%23CC2927.svg?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white"/>
                         <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
 			<!--INVISIBLE SPACE-->⠀⠀⠀⠀<!--INVISIBLE SPACE-->
+			<br>
                     </td>
                     <th align="center">
                         <!--INVISIBLE SPACE--><!--INVISIBLE SPACE-->
