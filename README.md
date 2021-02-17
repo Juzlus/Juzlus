@@ -31,6 +31,7 @@
     </div>
     <div>
         <div>
+	<!--INVISIBLE SPACE-->⠀⠀⠀<!--INVISIBLE SPACE-->
             <table>
                 <tr>
                     <td align="center">
@@ -48,14 +49,14 @@
                         <img src="https://img.shields.io/badge/Unity%20-%23000000.svg?&style=for-the-badge&logo=Unity&logoColor=white"/><br>
                         ⠀<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server%20-%23CC2927.svg?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white"/>
                         <img src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-			<!--INVISIBLE SPACE-->⠀⠀⠀⠀<!--INVISIBLE SPACE-->
+			<!--INVISIBLE SPACE-->⠀⠀⠀⠀⠀⠀⠀<!--INVISIBLE SPACE-->
 			<br>
                     </td>
                     <th align="center">
                         <!--INVISIBLE SPACE--><!--INVISIBLE SPACE-->
-                        ⠀⠀⠀⠀If you want to reach out to me about anything,<br>⠀⠀⠀⠀⠀be it some doubt or just to hangout just ping me.⠀⠀⠀⠀<br><br>
+                        ⠀⠀⠀⠀If you want to reach out to me about anything,<br>⠀⠀be it some doubt or just to hangout just ping me.⠀⠀⠀⠀<br><br>
                         <a href="https://steamcommunity.com/id/juzlus" target="_blank"><img src="https://img.shields.io/badge/Steam%20-%23000000.svg?&style=for-the-badge&logo=Steam&logoColor=white"/></a> 
-                        <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a><br>
+                        <a href="mailto:Juzlus.Biznes@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a><br>
                         <a href="https://www.twitch.tv/juzlus" target="_blank"><img src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
                         <a href="https://discord.gg/wzXWcHhACf" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
                         <!--INVISIBLE SPACE--><!--INVISIBLE SPACE-->
